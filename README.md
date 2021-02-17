@@ -5,7 +5,7 @@ https://www.coursera.org/specializations/machine-learning-data-analysis
 * [Homework](/1%20Mathematics%20and%20Python/Homework)
 * [Lectures](/1%20Mathematics%20and%20Python/Lectures)
 * [Notes](/1%20Mathematics%20and%20Python/Notes)
-* [Interesting resources](/1%20Mathematics%20and%20Python/Interesting%20resources.docx)
+* [Interesting resources](/1%20Mathematics%20and%20Python/Interesting%20resources.pdf)
 
 ### [2 Supervised learning (Обучение на размеченных данных)](/2%20Supervised%20learning)
 * [Homework](/2%20Supervised%20learning/Homework)
