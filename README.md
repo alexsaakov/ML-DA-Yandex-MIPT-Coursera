@@ -9,7 +9,8 @@ https://www.coursera.org/specializations/machine-learning-data-analysis
 
 ### [2 Supervised learning (Обучение на размеченных данных)](/2%20Supervised%20learning)
 * [Homework](/2%20Supervised%20learning/Homework)
-* [Lectures notebooks](/2%20Supervised%20learning/Lectures%20notebooks)
+* [Lectures](/2%20Supervised%20learning/Lectures)
+* [Notes](/2%20Supervised%20learning/Notes)
 * [Interesting resources](/2%20Supervised%20learning/Interesting%20resources.docx)
 
 ### [3 Unsupervised learning (Поиск структуры в данных)](/3%20Unsupervised%20learning)
