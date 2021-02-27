@@ -15,7 +15,8 @@ https://www.coursera.org/specializations/machine-learning-data-analysis
 
 ### [3 Unsupervised learning (Поиск структуры в данных)](/3%20Unsupervised%20learning)
 * [Homework](/3%20Unsupervised%20learning/Homework)
-* [Lectures notebooks](/3%20Unsupervised%20learning/Lectures%20notebooks)
+* [Lectures](/3%20Unsupervised%20learning/Lectures)
+* [Notes](/3%20Unsupervised%20learning/Notes)
 
 ### [4 Stats for data analysis (Построение выводов по данным)](/4%20Stats%20for%20data%20analysis)
 * [Homework](/4%20Stats%20for%20data%20analysis/Homework)
