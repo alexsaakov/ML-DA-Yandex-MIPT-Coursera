@@ -25,7 +25,7 @@ https://www.coursera.org/specializations/machine-learning-data-analysis
 
 ### [5 Data analysis applications (Прикладные задачи анализа данных)](/5%20Data%20analysis%20applications)
 * [Homework](/5%20Data%20analysis%20applications/Homework)
-* [Lectures notebooks](/5%20Data%20analysis%20applications/Lectures%20notebooks)
+* [Notes](/5%20Data%20analysis%20applications/Notes)
 * [Interesting resources](/5%20Data%20analysis%20applications/Interesting%20resources.docx)
 
 ### [Certificates (Сертификаты)](/Certificates)
