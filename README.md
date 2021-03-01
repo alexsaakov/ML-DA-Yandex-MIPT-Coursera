@@ -20,7 +20,8 @@ https://www.coursera.org/specializations/machine-learning-data-analysis
 
 ### [4 Stats for data analysis (Построение выводов по данным)](/4%20Stats%20for%20data%20analysis)
 * [Homework](/4%20Stats%20for%20data%20analysis/Homework)
-* [Lectures notebooks](/4%20Stats%20for%20data%20analysis/Lectures%20notebooks)
+* [Lectures](/4%20Stats%20for%20data%20analysis/Lectures)
+* [Notes](/4%20Stats%20for%20data%20analysis/Notes)
 * [Interesting resources](/4%20Stats%20for%20data%20analysis/Interesting%20resources.docx)
 
 ### [5 Data analysis applications (Прикладные задачи анализа данных)](/5%20Data%20analysis%20applications)
